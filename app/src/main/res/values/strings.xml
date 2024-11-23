@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">user manager</string>
+    <string name="firstname_hint">Enter your first name</string>
+    <string name="lastname_hint">Enter your last name</string>
+    <string name="age_hint">Enter your age</string>
+
+    <string name="add_button">ADD</string>
+    <string name="delete_button">DELETE</string>
+
+</resources>
